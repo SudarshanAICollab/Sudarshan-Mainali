@@ -1,0 +1,6 @@
+{
+  "name": "Doc-to-Quiz AI",
+  "description": "Upload a PDF or DOCX file to automatically generate multiple-choice questions with fields for explanations, images, and marks.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
